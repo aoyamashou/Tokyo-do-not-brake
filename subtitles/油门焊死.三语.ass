@@ -1,0 +1,210 @@
+[Script Info]
+Title: 油门焊死
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: ZH,PingFang SC,72,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,60,230,1
+Style: EN,Helvetica Neue,44,&H0000D4FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,150,1
+Style: VI,Helvetica Neue,40,&H00FFF25C,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,80,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.30,0:00:22.08,ZH,,0,0,0,,2026, Tokyo. Don't brake.
+Dialogue: 0,0:00:04.30,0:00:22.08,EN,,0,0,0,,2026, Tokyo. Don't brake.
+Dialogue: 0,0:00:04.30,0:00:22.08,VI,,0,0,0,,2026, Tokyo. Đừng phanh.
+Dialogue: 0,0:00:22.13,0:00:24.43,ZH,,0,0,0,,早上便利店的饭团又换了价签
+Dialogue: 0,0:00:22.13,0:00:24.43,EN,,0,0,0,,The rice balls at the convenience store got new price tags again this morning
+Dialogue: 0,0:00:22.13,0:00:24.43,VI,,0,0,0,,Sáng nay cơm nắm ở cửa hàng tiện lợi lại đổi bảng giá
+Dialogue: 0,0:00:24.48,0:00:26.56,ZH,,0,0,0,,日元汇率天天刷新低，一路跌破底线
+Dialogue: 0,0:00:24.48,0:00:26.56,EN,,0,0,0,,The yen sets a new low every day, crashing straight through the floor
+Dialogue: 0,0:00:24.48,0:00:26.56,VI,,0,0,0,,Tỷ giá yên ngày nào cũng lập đáy mới, rơi xuyên mọi giới hạn
+Dialogue: 0,0:00:26.61,0:00:30.10,ZH,,0,0,0,,高主席一拍桌子：病根找到了，外国人太多才是关键
+Dialogue: 0,0:00:26.61,0:00:30.10,EN,,0,0,0,,Chairman Gao slams the table: "Found the root cause — too many foreigners!"
+Dialogue: 0,0:00:26.61,0:00:30.10,VI,,0,0,0,,Chủ tịch Gao đập bàn: "Tìm ra bệnh căn rồi — người nước ngoài quá nhiều!"
+Dialogue: 0,0:00:30.15,0:00:32.35,ZH,,0,0,0,,永住加考日语，经管签证九成不见
+Dialogue: 0,0:00:30.15,0:00:32.35,EN,,0,0,0,,Permanent residency now needs a Japanese exam; nine in ten Business Manager visas vanish
+Dialogue: 0,0:00:30.15,0:00:32.35,VI,,0,0,0,,Vĩnh trú phải thi thêm tiếng Nhật, chín phần mười visa Kinh doanh–Quản lý biến mất
+Dialogue: 0,0:00:32.40,0:00:36.25,ZH,,0,0,0,,“有序共生”翻译成白话：请排好队，走远
+Dialogue: 0,0:00:32.40,0:00:36.25,EN,,0,0,0,,"Orderly coexistence" in plain speech: please line up neatly… and walk far away
+Dialogue: 0,0:00:32.40,0:00:36.25,VI,,0,0,0,,"Cộng sinh có trật tự" dịch ra tiếng người: xếp hàng ngay ngắn rồi đi cho xa
+Dialogue: 0,0:00:36.30,0:00:40.25,ZH,,0,0,0,,我说好！这加速谁敢停，谁就是叛变
+Dialogue: 0,0:00:36.30,0:00:40.25,EN,,0,0,0,,I say great! Whoever dares stop this acceleration is a traitor
+Dialogue: 0,0:00:36.30,0:00:40.25,VI,,0,0,0,,Tôi nói được thôi! Ai dám dừng cuộc tăng tốc này, kẻ đó là phản bội
+Dialogue: 0,0:00:40.30,0:00:42.65,ZH,,0,0,0,,物价在飞，日元在掉
+Dialogue: 0,0:00:40.30,0:00:42.65,EN,,0,0,0,,Prices are flying, the yen is falling
+Dialogue: 0,0:00:40.30,0:00:42.65,VI,,0,0,0,,Giá cả bay vèo, đồng yên rơi tự do
+Dialogue: 0,0:00:42.70,0:00:44.95,ZH,,0,0,0,,新闻里说，一切都好
+Dialogue: 0,0:00:42.70,0:00:44.95,EN,,0,0,0,,The news says everything's fine
+Dialogue: 0,0:00:42.70,0:00:44.95,VI,,0,0,0,,Tin tức bảo mọi thứ đều ổn
+Dialogue: 0,0:00:45.00,0:00:47.05,ZH,,0,0,0,,那就别停，别踩刹车
+Dialogue: 0,0:00:45.00,0:00:47.05,EN,,0,0,0,,Then don't stop, don't touch the brake
+Dialogue: 0,0:00:45.00,0:00:47.05,VI,,0,0,0,,Vậy thì đừng dừng, đừng đạp phanh
+Dialogue: 0,0:00:47.10,0:00:51.35,ZH,,0,0,0,,把音量调到最高
+Dialogue: 0,0:00:47.10,0:00:51.35,EN,,0,0,0,,Crank the volume to the max
+Dialogue: 0,0:00:47.10,0:00:51.35,VI,,0,0,0,,Vặn âm lượng lên mức tối đa
+Dialogue: 0,0:00:51.40,0:00:53.75,ZH,,0,0,0,,踩下油门，别回头望
+Dialogue: 0,0:00:51.40,0:00:53.75,EN,,0,0,0,,Floor the gas, don't look back
+Dialogue: 0,0:00:51.40,0:00:53.75,VI,,0,0,0,,Đạp ga xuống, đừng ngoảnh lại
+Dialogue: 0,0:00:53.80,0:00:56.05,ZH,,0,0,0,,把车门焊死，把墙加长
+Dialogue: 0,0:00:53.80,0:00:56.05,EN,,0,0,0,,Weld the doors shut, make the wall longer
+Dialogue: 0,0:00:53.80,0:00:56.05,VI,,0,0,0,,Hàn chết cửa xe, nối dài bức tường
+Dialogue: 0,0:00:56.10,0:00:58.85,ZH,,0,0,0,,这盛世烟花放得多么漂亮
+Dialogue: 0,0:00:56.10,0:00:58.85,EN,,0,0,0,,How beautiful these golden-age fireworks are
+Dialogue: 0,0:00:56.10,0:00:58.85,VI,,0,0,0,,Pháo hoa thời thịnh thế nở đẹp làm sao
+Dialogue: 0,0:00:58.90,0:01:00.85,ZH,,0,0,0,,全车跟我一起唱
+Dialogue: 0,0:00:58.90,0:01:00.85,EN,,0,0,0,,Everyone on board, sing with me
+Dialogue: 0,0:00:58.90,0:01:00.85,VI,,0,0,0,,Cả xe cùng hát với tôi
+Dialogue: 0,0:01:00.90,0:01:03.25,ZH,,0,0,0,,万岁，万岁，前途无量
+Dialogue: 0,0:01:00.90,0:01:03.25,EN,,0,0,0,,Banzai, banzai, a boundless future
+Dialogue: 0,0:01:00.90,0:01:03.25,VI,,0,0,0,,Vạn tuế, vạn tuế, tương lai rộng mở
+Dialogue: 0,0:01:03.30,0:01:05.35,ZH,,0,0,0,,一路加速，奔向辉煌
+Dialogue: 0,0:01:03.30,0:01:05.35,EN,,0,0,0,,Accelerate all the way, toward glory
+Dialogue: 0,0:01:03.30,0:01:05.35,VI,,0,0,0,,Tăng tốc suốt đường, lao tới huy hoàng
+Dialogue: 0,0:01:05.40,0:01:09.55,ZH,,0,0,0,,再狠一点！再快一点！
+Dialogue: 0,0:01:05.40,0:01:09.55,EN,,0,0,0,,Harder! Faster!
+Dialogue: 0,0:01:05.40,0:01:09.55,VI,,0,0,0,,Mạnh tay hơn nữa! Nhanh hơn nữa!
+Dialogue: 0,0:01:09.60,0:01:12.45,ZH,,0,0,0,,Hey！AI 都会写诗了，区役所还在等传真机
+Dialogue: 0,0:01:09.60,0:01:12.45,EN,,0,0,0,,Hey! AI writes poetry now, and the ward office is still waiting on a fax machine
+Dialogue: 0,0:01:09.60,0:01:12.45,VI,,0,0,0,,Này! AI đã biết làm thơ mà phòng hành chính phường vẫn đợi máy fax
+Dialogue: 0,0:01:12.50,0:01:16.25,ZH,,0,0,0,,空气要读，规矩要背，你说这叫礼仪，我说这叫集体窒息
+Dialogue: 0,0:01:12.50,0:01:16.25,EN,,0,0,0,,Read the air, memorize the rules — you call it etiquette, I call it collective suffocation
+Dialogue: 0,0:01:12.50,0:01:16.25,VI,,0,0,0,,Phải "đọc không khí", phải thuộc luật ngầm — anh gọi là lễ nghi, tôi gọi là cả xã hội cùng ngạt thở
+Dialogue: 0,0:01:16.30,0:01:19.05,ZH,,0,0,0,,住民税、所得税、年金，月月准时扣到底
+Dialogue: 0,0:01:16.30,0:01:19.05,EN,,0,0,0,,Resident tax, income tax, pension — deducted on time every month, down to the last yen
+Dialogue: 0,0:01:16.30,0:01:19.05,VI,,0,0,0,,Thuế cư trú, thuế thu nhập, lương hưu — tháng nào cũng trừ đúng hạn, trừ tới đáy
+Dialogue: 0,0:01:19.10,0:01:21.95,ZH,,0,0,0,,租房先问国籍，续签证还得看尽脸色和脾气
+Dialogue: 0,0:01:19.10,0:01:21.95,EN,,0,0,0,,Renting starts with "your nationality?"; renewing a visa means reading every face and mood
+Dialogue: 0,0:01:19.10,0:01:21.95,VI,,0,0,0,,Thuê nhà câu đầu là hỏi quốc tịch, gia hạn visa còn phải nhìn đủ sắc mặt và tính khí
+Dialogue: 0,0:01:22.00,0:01:24.15,ZH,,0,0,0,,一边让我们去夜班、去工地、去护理
+Dialogue: 0,0:01:22.00,0:01:24.15,EN,,0,0,0,,They send us to night shifts, construction sites, and nursing care
+Dialogue: 0,0:01:22.00,0:01:24.15,VI,,0,0,0,,Một bên bắt chúng tôi đi ca đêm, ra công trường, đi chăm sóc điều dưỡng
+Dialogue: 0,0:01:24.20,0:01:26.35,ZH,,0,0,0,,一边在网上骂，我们抢了你们的福利
+Dialogue: 0,0:01:24.20,0:01:26.35,EN,,0,0,0,,while cursing us online for stealing your benefits
+Dialogue: 0,0:01:24.20,0:01:26.35,VI,,0,0,0,,một bên lên mạng chửi chúng tôi cướp phúc lợi của các người
+Dialogue: 0,0:01:26.40,0:01:27.45,ZH,,0,0,0,,OK 我会走的
+Dialogue: 0,0:01:26.40,0:01:27.45,EN,,0,0,0,,OK, I'll leave
+Dialogue: 0,0:01:26.40,0:01:27.45,VI,,0,0,0,,OK, tôi sẽ đi
+Dialogue: 0,0:01:27.50,0:01:28.25,ZH,,0,0,0,,没有关系
+Dialogue: 0,0:01:27.50,0:01:28.25,EN,,0,0,0,,No hard feelings
+Dialogue: 0,0:01:27.50,0:01:28.25,VI,,0,0,0,,Không sao đâu
+Dialogue: 0,0:01:28.30,0:01:32.25,ZH,,0,0,0,,祝你们这台生锈的机器，早日转出奇迹
+Dialogue: 0,0:01:28.30,0:01:32.25,EN,,0,0,0,,May your rusty machine spin out a miracle soon
+Dialogue: 0,0:01:28.30,0:01:32.25,VI,,0,0,0,,Chúc cỗ máy rỉ sét của các người sớm quay ra phép màu
+Dialogue: 0,0:01:32.30,0:01:34.45,ZH,,0,0,0,,警报在响，仪表在跳
+Dialogue: 0,0:01:32.30,0:01:34.45,EN,,0,0,0,,Alarms are blaring, the gauges are jumping
+Dialogue: 0,0:01:32.30,0:01:34.45,VI,,0,0,0,,Còi báo động vang, đồng hồ nhảy loạn
+Dialogue: 0,0:01:34.50,0:01:36.75,ZH,,0,0,0,,前面是墙，我早知道
+Dialogue: 0,0:01:34.50,0:01:36.75,EN,,0,0,0,,A wall ahead — I knew it all along
+Dialogue: 0,0:01:34.50,0:01:36.75,VI,,0,0,0,,Phía trước là tường, tôi biết từ lâu rồi
+Dialogue: 0,0:01:36.80,0:01:38.75,ZH,,0,0,0,,那就加速，千万别停
+Dialogue: 0,0:01:36.80,0:01:38.75,EN,,0,0,0,,Then speed up, whatever you do, don't stop
+Dialogue: 0,0:01:36.80,0:01:38.75,VI,,0,0,0,,Vậy thì tăng tốc, tuyệt đối đừng dừng
+Dialogue: 0,0:01:38.80,0:01:42.95,ZH,,0,0,0,,把速度飙到最高
+Dialogue: 0,0:01:38.80,0:01:42.95,EN,,0,0,0,,Push the speed to the limit
+Dialogue: 0,0:01:38.80,0:01:42.95,VI,,0,0,0,,Đẩy tốc độ lên tối đa
+Dialogue: 0,0:01:43.00,0:01:45.45,ZH,,0,0,0,,加速，加速，不要停
+Dialogue: 0,0:01:43.00,0:01:45.45,EN,,0,0,0,,Faster, faster, don't stop
+Dialogue: 0,0:01:43.00,0:01:45.45,VI,,0,0,0,,Tăng tốc, tăng tốc, đừng dừng
+Dialogue: 0,0:01:45.50,0:01:47.55,ZH,,0,0,0,,油门焊死，冲向前方
+Dialogue: 0,0:01:45.50,0:01:47.55,EN,,0,0,0,,Throttle welded down, charging ahead
+Dialogue: 0,0:01:45.50,0:01:47.55,VI,,0,0,0,,Chân ga hàn chết, lao về phía trước
+Dialogue: 0,0:01:47.60,0:01:50.15,ZH,,0,0,0,,我已经等不及听那一声巨响
+Dialogue: 0,0:01:47.60,0:01:50.15,EN,,0,0,0,,I can't wait to hear that giant crash
+Dialogue: 0,0:01:47.60,0:01:50.15,VI,,0,0,0,,Tôi nóng lòng chờ nghe tiếng nổ lớn ấy
+Dialogue: 0,0:01:50.20,0:01:52.35,ZH,,0,0,0,,全车跟我一起唱
+Dialogue: 0,0:01:50.20,0:01:52.35,EN,,0,0,0,,Everyone on board, sing with me
+Dialogue: 0,0:01:50.20,0:01:52.35,VI,,0,0,0,,Cả xe cùng hát với tôi
+Dialogue: 0,0:01:52.40,0:01:54.55,ZH,,0,0,0,,加速！加速！越快越棒！
+Dialogue: 0,0:01:52.40,0:01:54.55,EN,,0,0,0,,Faster! Faster! The faster the better!
+Dialogue: 0,0:01:52.40,0:01:54.55,VI,,0,0,0,,Tăng tốc! Tăng tốc! Càng nhanh càng đã!
+Dialogue: 0,0:01:54.60,0:01:56.85,ZH,,0,0,0,,一路狂飙，冲向辉煌。
+Dialogue: 0,0:01:54.60,0:01:56.85,EN,,0,0,0,,Race wildly onward, charging into glory.
+Dialogue: 0,0:01:54.60,0:01:56.85,VI,,0,0,0,,Phóng điên cuồng, lao vào huy hoàng.
+Dialogue: 0,0:01:56.90,0:02:01.45,ZH,,0,0,0,,别踩刹车！别想跳车！
+Dialogue: 0,0:01:56.90,0:02:01.45,EN,,0,0,0,,Don't brake! Don't even think of jumping out!
+Dialogue: 0,0:01:56.90,0:02:01.45,VI,,0,0,0,,Đừng phanh! Đừng hòng nhảy xe!
+Dialogue: 0,0:02:01.50,0:02:06.15,ZH,,0,0,0,,固态电池量产排了又排，比亚迪已经开到你家门外
+Dialogue: 0,0:02:01.50,0:02:06.15,EN,,0,0,0,,Solid-state battery mass production keeps slipping; BYD is already parked outside your door
+Dialogue: 0,0:02:01.50,0:02:06.15,VI,,0,0,0,,Pin thể rắn sản xuất hàng loạt cứ lùi mãi, BYD đã đỗ trước cửa nhà các người
+Dialogue: 0,0:02:06.20,0:02:10.35,ZH,,0,0,0,,日产本田刚订婚就分开，家电天团卖的卖拆的拆
+Dialogue: 0,0:02:06.20,0:02:10.35,EN,,0,0,0,,Nissan and Honda got engaged and split right away; the home-appliance supergroup is sold off and broken up
+Dialogue: 0,0:02:06.20,0:02:10.35,VI,,0,0,0,,Nissan và Honda vừa đính hôn đã chia tay, nhóm nhạc đồ gia dụng bán thì bán, tách thì tách
+Dialogue: 0,0:02:10.40,0:02:12.95,ZH,,0,0,0,,半导体砸几万亿补贴，喊着 Rapidus 要回来
+Dialogue: 0,0:02:10.40,0:02:12.95,EN,,0,0,0,,Trillions in chip subsidies, shouting "Rapidus will be back!"
+Dialogue: 0,0:02:10.40,0:02:12.95,VI,,0,0,0,,Đổ hàng nghìn tỷ trợ cấp bán dẫn, hô hào Rapidus sẽ trở lại
+Dialogue: 0,0:02:13.00,0:02:15.35,ZH,,0,0,0,,人口一年少掉一座城，空房多到1元拍卖
+Dialogue: 0,0:02:13.00,0:02:15.35,EN,,0,0,0,,Population shrinks by a whole city every year; empty houses go to auction for 1 yen
+Dialogue: 0,0:02:13.00,0:02:15.35,VI,,0,0,0,,Mỗi năm dân số mất đi một thành phố, nhà bỏ trống nhiều tới mức đấu giá 1 yên
+Dialogue: 0,0:02:15.40,0:02:16.45,ZH,,0,0,0,,人口减少？关我屁事？
+Dialogue: 0,0:02:15.40,0:02:16.45,EN,,0,0,0,,Population decline? What the hell do I care?
+Dialogue: 0,0:02:15.40,0:02:16.45,VI,,0,0,0,,Dân số giảm? Liên quan quái gì tôi?
+Dialogue: 0,0:02:16.50,0:02:17.85,ZH,,0,0,0,,未来堪忧？和我无关
+Dialogue: 0,0:02:16.50,0:02:17.85,EN,,0,0,0,,The future looks grim? Not my problem
+Dialogue: 0,0:02:16.50,0:02:17.85,VI,,0,0,0,,Tương lai đáng lo? Không liên quan tới tôi
+Dialogue: 0,0:02:17.90,0:02:19.55,ZH,,0,0,0,,网右喊着社保分开算？兄弟，那可太棒
+Dialogue: 0,0:02:17.90,0:02:19.55,EN,,0,0,0,,Net-right types shouting "split the social security accounts"? Brother, that's wonderful
+Dialogue: 0,0:02:17.90,0:02:19.55,VI,,0,0,0,,Đám cực hữu mạng đòi tách riêng bảo hiểm xã hội? Anh em, tuyệt quá còn gì
+Dialogue: 0,0:02:19.60,0:02:22.05,ZH,,0,0,0,,不用养你们的爸妈，我工资条直接多一行
+Dialogue: 0,0:02:19.60,0:02:22.05,EN,,0,0,0,,No more supporting your parents — my payslip just grows an extra line
+Dialogue: 0,0:02:19.60,0:02:22.05,VI,,0,0,0,,Khỏi phải nuôi bố mẹ các người, phiếu lương của tôi tự dưng dài thêm một dòng
+Dialogue: 0,0:02:22.10,0:02:24.15,ZH,,0,0,0,,我口袋里有护照，航班每天飞往远方
+Dialogue: 0,0:02:22.10,0:02:24.15,EN,,0,0,0,,I've got a passport in my pocket, and flights leave for far away every day
+Dialogue: 0,0:02:22.10,0:02:24.15,VI,,0,0,0,,Hộ chiếu nằm trong túi, chuyến bay mỗi ngày đều bay tới nơi xa
+Dialogue: 0,0:02:24.20,0:02:29.65,ZH,,0,0,0,,等推轮椅的人走光，自己守你们父母的病床
+Dialogue: 0,0:02:24.20,0:02:29.65,EN,,0,0,0,,When everyone who pushes wheelchairs is gone, guard your own parents' sickbeds yourselves
+Dialogue: 0,0:02:24.20,0:02:29.65,VI,,0,0,0,,Đợi người đẩy xe lăn đi hết, tự các người ngồi canh giường bệnh của bố mẹ mình
+Dialogue: 0,0:02:29.70,0:02:31.45,ZH,,0,0,0,,别停！
+Dialogue: 0,0:02:29.70,0:02:31.45,EN,,0,0,0,,Don't stop!
+Dialogue: 0,0:02:29.70,0:02:31.45,VI,,0,0,0,,Đừng dừng!
+Dialogue: 0,0:02:31.50,0:02:35.85,ZH,,0,0,0,,那一声巨响，我等很久了。
+Dialogue: 0,0:02:31.50,0:02:35.85,EN,,0,0,0,,That giant crash — I've waited so long.
+Dialogue: 0,0:02:31.50,0:02:35.85,VI,,0,0,0,,Tiếng nổ lớn ấy, tôi đã chờ rất lâu rồi.
+Dialogue: 0,0:02:35.90,0:02:38.35,ZH,,0,0,0,,Karma is on the way.
+Dialogue: 0,0:02:35.90,0:02:38.35,EN,,0,0,0,,Karma is on the way.
+Dialogue: 0,0:02:35.90,0:02:38.35,VI,,0,0,0,,Nghiệp báo đang trên đường tới.
+Dialogue: 0,0:02:38.40,0:02:41.75,ZH,,0,0,0,,别停下来（越快越爽）
+Dialogue: 0,0:02:38.40,0:02:41.75,EN,,0,0,0,,Don't stop (the faster the better)
+Dialogue: 0,0:02:38.40,0:02:41.75,VI,,0,0,0,,Đừng dừng lại (càng nhanh càng sướng)
+Dialogue: 0,0:02:41.80,0:02:44.05,ZH,,0,0,0,,冲过悬崖（飞向天堂）
+Dialogue: 0,0:02:41.80,0:02:44.05,EN,,0,0,0,,Over the cliff (flying to heaven)
+Dialogue: 0,0:02:41.80,0:02:44.05,VI,,0,0,0,,Lao qua vách đá (bay thẳng lên thiên đường)
+Dialogue: 0,0:02:44.10,0:02:47.65,ZH,,0,0,0,,等账单将来寄到你们自己门上
+Dialogue: 0,0:02:44.10,0:02:47.65,EN,,0,0,0,,Till the bill arrives at your own door
+Dialogue: 0,0:02:44.10,0:02:47.65,VI,,0,0,0,,Đợi hóa đơn gửi tới tận cửa nhà các người
+Dialogue: 0,0:02:47.70,0:02:50.85,ZH,,0,0,0,,全车再唱，最后一遍
+Dialogue: 0,0:02:47.70,0:02:50.85,EN,,0,0,0,,Everyone sing once more — the last time
+Dialogue: 0,0:02:47.70,0:02:50.85,VI,,0,0,0,,Cả xe hát lại lần nữa — lần cuối cùng
+Dialogue: 0,0:02:50.90,0:02:53.45,ZH,,0,0,0,,高主席万寿无疆
+Dialogue: 0,0:02:50.90,0:02:53.45,EN,,0,0,0,,Long live Chairman Gao, ten thousand years without end
+Dialogue: 0,0:02:50.90,0:02:53.45,VI,,0,0,0,,Chủ tịch Gao vạn thọ vô cương
+Dialogue: 0,0:02:53.50,0:03:00.05,ZH,,0,0,0,,小野田副主席永远健康
+Dialogue: 0,0:02:53.50,0:03:00.05,EN,,0,0,0,,Vice-Chairman Xiaoyetian, forever in good health
+Dialogue: 0,0:02:53.50,0:03:00.05,VI,,0,0,0,,Phó Chủ tịch Xiaoyetian mãi mãi khỏe mạnh
+Dialogue: 0,0:03:00.10,0:03:02.35,ZH,,0,0,0,,高主席，万寿，别停。
+Dialogue: 0,0:03:00.10,0:03:02.35,EN,,0,0,0,,Chairman Gao, long life, never stop.
+Dialogue: 0,0:03:00.10,0:03:02.35,VI,,0,0,0,,Chủ tịch Gao, vạn thọ, đừng dừng.
+Dialogue: 0,0:03:02.40,0:03:04.55,ZH,,0,0,0,,高主席，万寿，无疆。
+Dialogue: 0,0:03:02.40,0:03:04.55,EN,,0,0,0,,Chairman Gao, long life, without end.
+Dialogue: 0,0:03:02.40,0:03:04.55,VI,,0,0,0,,Chủ tịch Gao, vạn thọ, vô cương.
+Dialogue: 0,0:03:04.60,0:03:06.85,ZH,,0,0,0,,小野田，万寿无疆
+Dialogue: 0,0:03:04.60,0:03:06.85,EN,,0,0,0,,Xiaoyetian, long life without end
+Dialogue: 0,0:03:04.60,0:03:06.85,VI,,0,0,0,,Xiaoyetian, vạn thọ vô cương
+Dialogue: 0,0:03:06.90,0:03:10.40,ZH,,0,0,0,,小野田副主席，
+Dialogue: 0,0:03:06.90,0:03:10.40,EN,,0,0,0,,Vice-Chairman Xiaoyetian,
+Dialogue: 0,0:03:06.90,0:03:10.40,VI,,0,0,0,,Phó Chủ tịch Xiaoyetian,
+Dialogue: 0,0:03:10.45,0:03:18.88,ZH,,0,0,0,,永远，永远健康。
+Dialogue: 0,0:03:10.45,0:03:18.88,EN,,0,0,0,,Forever, forever healthy.
+Dialogue: 0,0:03:10.45,0:03:18.88,VI,,0,0,0,,Mãi mãi, mãi mãi khỏe mạnh.
+Dialogue: 0,0:03:18.93,0:03:24.59,ZH,,0,0,0,,祝你们越办越好。万寿无疆
+Dialogue: 0,0:03:18.93,0:03:24.59,EN,,0,0,0,,May you run things better and better. Long life without end.
+Dialogue: 0,0:03:18.93,0:03:24.59,VI,,0,0,0,,Chúc các người càng làm càng tốt. Vạn thọ vô cương.
+Dialogue: 0,0:03:24.64,0:03:28.78,ZH,,0,0,0,,万寿无疆
+Dialogue: 0,0:03:24.64,0:03:28.78,EN,,0,0,0,,Long life without end
+Dialogue: 0,0:03:24.64,0:03:28.78,VI,,0,0,0,,Vạn thọ vô cương
+Dialogue: 0,0:03:28.83,0:03:31.00,ZH,,0,0,0,,永远健康。
+Dialogue: 0,0:03:28.83,0:03:31.00,EN,,0,0,0,,Forever healthy.
+Dialogue: 0,0:03:28.83,0:03:31.00,VI,,0,0,0,,Mãi mãi khỏe mạnh.

@@ -1,0 +1,457 @@
+[
+ {
+  "start": 4.3,
+  "end": 22.08,
+  "zh": "2026, Tokyo. Don't brake.",
+  "en": "2026, Tokyo. Don't brake.",
+  "vi": "2026, Tokyo. Đừng phanh."
+ },
+ {
+  "start": 22.13,
+  "end": 24.43,
+  "zh": "早上便利店的饭团又换了价签",
+  "en": "The rice balls at the convenience store got new price tags again this morning",
+  "vi": "Sáng nay cơm nắm ở cửa hàng tiện lợi lại đổi bảng giá"
+ },
+ {
+  "start": 24.48,
+  "end": 26.56,
+  "zh": "日元汇率天天刷新低，一路跌破底线",
+  "en": "The yen sets a new low every day, crashing straight through the floor",
+  "vi": "Tỷ giá yên ngày nào cũng lập đáy mới, rơi xuyên mọi giới hạn"
+ },
+ {
+  "start": 26.61,
+  "end": 30.099999999999998,
+  "zh": "高主席一拍桌子：病根找到了，外国人太多才是关键",
+  "en": "Chairman Gao slams the table: \"Found the root cause — too many foreigners!\"",
+  "vi": "Chủ tịch Gao đập bàn: \"Tìm ra bệnh căn rồi — người nước ngoài quá nhiều!\""
+ },
+ {
+  "start": 30.15,
+  "end": 32.35,
+  "zh": "永住加考日语，经管签证九成不见",
+  "en": "Permanent residency now needs a Japanese exam; nine in ten Business Manager visas vanish",
+  "vi": "Vĩnh trú phải thi thêm tiếng Nhật, chín phần mười visa Kinh doanh–Quản lý biến mất"
+ },
+ {
+  "start": 32.4,
+  "end": 36.25,
+  "zh": "“有序共生”翻译成白话：请排好队，走远",
+  "en": "\"Orderly coexistence\" in plain speech: please line up neatly… and walk far away",
+  "vi": "\"Cộng sinh có trật tự\" dịch ra tiếng người: xếp hàng ngay ngắn rồi đi cho xa"
+ },
+ {
+  "start": 36.3,
+  "end": 40.25,
+  "zh": "我说好！这加速谁敢停，谁就是叛变",
+  "en": "I say great! Whoever dares stop this acceleration is a traitor",
+  "vi": "Tôi nói được thôi! Ai dám dừng cuộc tăng tốc này, kẻ đó là phản bội"
+ },
+ {
+  "start": 40.3,
+  "end": 42.650000000000006,
+  "zh": "物价在飞，日元在掉",
+  "en": "Prices are flying, the yen is falling",
+  "vi": "Giá cả bay vèo, đồng yên rơi tự do"
+ },
+ {
+  "start": 42.7,
+  "end": 44.95,
+  "zh": "新闻里说，一切都好",
+  "en": "The news says everything's fine",
+  "vi": "Tin tức bảo mọi thứ đều ổn"
+ },
+ {
+  "start": 45,
+  "end": 47.050000000000004,
+  "zh": "那就别停，别踩刹车",
+  "en": "Then don't stop, don't touch the brake",
+  "vi": "Vậy thì đừng dừng, đừng đạp phanh"
+ },
+ {
+  "start": 47.1,
+  "end": 51.35,
+  "zh": "把音量调到最高",
+  "en": "Crank the volume to the max",
+  "vi": "Vặn âm lượng lên mức tối đa"
+ },
+ {
+  "start": 51.4,
+  "end": 53.75,
+  "zh": "踩下油门，别回头望",
+  "en": "Floor the gas, don't look back",
+  "vi": "Đạp ga xuống, đừng ngoảnh lại"
+ },
+ {
+  "start": 53.8,
+  "end": 56.050000000000004,
+  "zh": "把车门焊死，把墙加长",
+  "en": "Weld the doors shut, make the wall longer",
+  "vi": "Hàn chết cửa xe, nối dài bức tường"
+ },
+ {
+  "start": 56.1,
+  "end": 58.85,
+  "zh": "这盛世烟花放得多么漂亮",
+  "en": "How beautiful these golden-age fireworks are",
+  "vi": "Pháo hoa thời thịnh thế nở đẹp làm sao"
+ },
+ {
+  "start": 58.9,
+  "end": 60.85,
+  "zh": "全车跟我一起唱",
+  "en": "Everyone on board, sing with me",
+  "vi": "Cả xe cùng hát với tôi"
+ },
+ {
+  "start": 60.9,
+  "end": 63.25,
+  "zh": "万岁，万岁，前途无量",
+  "en": "Banzai, banzai, a boundless future",
+  "vi": "Vạn tuế, vạn tuế, tương lai rộng mở"
+ },
+ {
+  "start": 63.3,
+  "end": 65.35000000000001,
+  "zh": "一路加速，奔向辉煌",
+  "en": "Accelerate all the way, toward glory",
+  "vi": "Tăng tốc suốt đường, lao tới huy hoàng"
+ },
+ {
+  "start": 65.4,
+  "end": 69.55,
+  "zh": "再狠一点！再快一点！",
+  "en": "Harder! Faster!",
+  "vi": "Mạnh tay hơn nữa! Nhanh hơn nữa!"
+ },
+ {
+  "start": 69.6,
+  "end": 72.45,
+  "zh": "Hey！AI 都会写诗了，区役所还在等传真机",
+  "en": "Hey! AI writes poetry now, and the ward office is still waiting on a fax machine",
+  "vi": "Này! AI đã biết làm thơ mà phòng hành chính phường vẫn đợi máy fax"
+ },
+ {
+  "start": 72.5,
+  "end": 76.25,
+  "zh": "空气要读，规矩要背，你说这叫礼仪，我说这叫集体窒息",
+  "en": "Read the air, memorize the rules — you call it etiquette, I call it collective suffocation",
+  "vi": "Phải \"đọc không khí\", phải thuộc luật ngầm — anh gọi là lễ nghi, tôi gọi là cả xã hội cùng ngạt thở"
+ },
+ {
+  "start": 76.3,
+  "end": 79.05,
+  "zh": "住民税、所得税、年金，月月准时扣到底",
+  "en": "Resident tax, income tax, pension — deducted on time every month, down to the last yen",
+  "vi": "Thuế cư trú, thuế thu nhập, lương hưu — tháng nào cũng trừ đúng hạn, trừ tới đáy"
+ },
+ {
+  "start": 79.1,
+  "end": 81.95,
+  "zh": "租房先问国籍，续签证还得看尽脸色和脾气",
+  "en": "Renting starts with \"your nationality?\"; renewing a visa means reading every face and mood",
+  "vi": "Thuê nhà câu đầu là hỏi quốc tịch, gia hạn visa còn phải nhìn đủ sắc mặt và tính khí"
+ },
+ {
+  "start": 82,
+  "end": 84.15,
+  "zh": "一边让我们去夜班、去工地、去护理",
+  "en": "They send us to night shifts, construction sites, and nursing care",
+  "vi": "Một bên bắt chúng tôi đi ca đêm, ra công trường, đi chăm sóc điều dưỡng"
+ },
+ {
+  "start": 84.2,
+  "end": 86.35000000000001,
+  "zh": "一边在网上骂，我们抢了你们的福利",
+  "en": "while cursing us online for stealing your benefits",
+  "vi": "một bên lên mạng chửi chúng tôi cướp phúc lợi của các người"
+ },
+ {
+  "start": 86.4,
+  "end": 87.45,
+  "zh": "OK 我会走的",
+  "en": "OK, I'll leave",
+  "vi": "OK, tôi sẽ đi"
+ },
+ {
+  "start": 87.5,
+  "end": 88.25,
+  "zh": "没有关系",
+  "en": "No hard feelings",
+  "vi": "Không sao đâu"
+ },
+ {
+  "start": 88.3,
+  "end": 92.25,
+  "zh": "祝你们这台生锈的机器，早日转出奇迹",
+  "en": "May your rusty machine spin out a miracle soon",
+  "vi": "Chúc cỗ máy rỉ sét của các người sớm quay ra phép màu"
+ },
+ {
+  "start": 92.3,
+  "end": 94.45,
+  "zh": "警报在响，仪表在跳",
+  "en": "Alarms are blaring, the gauges are jumping",
+  "vi": "Còi báo động vang, đồng hồ nhảy loạn"
+ },
+ {
+  "start": 94.5,
+  "end": 96.75,
+  "zh": "前面是墙，我早知道",
+  "en": "A wall ahead — I knew it all along",
+  "vi": "Phía trước là tường, tôi biết từ lâu rồi"
+ },
+ {
+  "start": 96.8,
+  "end": 98.75,
+  "zh": "那就加速，千万别停",
+  "en": "Then speed up, whatever you do, don't stop",
+  "vi": "Vậy thì tăng tốc, tuyệt đối đừng dừng"
+ },
+ {
+  "start": 98.8,
+  "end": 102.95,
+  "zh": "把速度飙到最高",
+  "en": "Push the speed to the limit",
+  "vi": "Đẩy tốc độ lên tối đa"
+ },
+ {
+  "start": 103,
+  "end": 105.45,
+  "zh": "加速，加速，不要停",
+  "en": "Faster, faster, don't stop",
+  "vi": "Tăng tốc, tăng tốc, đừng dừng"
+ },
+ {
+  "start": 105.5,
+  "end": 107.55,
+  "zh": "油门焊死，冲向前方",
+  "en": "Throttle welded down, charging ahead",
+  "vi": "Chân ga hàn chết, lao về phía trước"
+ },
+ {
+  "start": 107.6,
+  "end": 110.15,
+  "zh": "我已经等不及听那一声巨响",
+  "en": "I can't wait to hear that giant crash",
+  "vi": "Tôi nóng lòng chờ nghe tiếng nổ lớn ấy"
+ },
+ {
+  "start": 110.2,
+  "end": 112.35000000000001,
+  "zh": "全车跟我一起唱",
+  "en": "Everyone on board, sing with me",
+  "vi": "Cả xe cùng hát với tôi"
+ },
+ {
+  "start": 112.4,
+  "end": 114.55,
+  "zh": "加速！加速！越快越棒！",
+  "en": "Faster! Faster! The faster the better!",
+  "vi": "Tăng tốc! Tăng tốc! Càng nhanh càng đã!"
+ },
+ {
+  "start": 114.6,
+  "end": 116.85000000000001,
+  "zh": "一路狂飙，冲向辉煌。",
+  "en": "Race wildly onward, charging into glory.",
+  "vi": "Phóng điên cuồng, lao vào huy hoàng."
+ },
+ {
+  "start": 116.9,
+  "end": 121.45,
+  "zh": "别踩刹车！别想跳车！",
+  "en": "Don't brake! Don't even think of jumping out!",
+  "vi": "Đừng phanh! Đừng hòng nhảy xe!"
+ },
+ {
+  "start": 121.5,
+  "end": 126.15,
+  "zh": "固态电池量产排了又排，比亚迪已经开到你家门外",
+  "en": "Solid-state battery mass production keeps slipping; BYD is already parked outside your door",
+  "vi": "Pin thể rắn sản xuất hàng loạt cứ lùi mãi, BYD đã đỗ trước cửa nhà các người"
+ },
+ {
+  "start": 126.2,
+  "end": 130.35,
+  "zh": "日产本田刚订婚就分开，家电天团卖的卖拆的拆",
+  "en": "Nissan and Honda got engaged and split right away; the home-appliance supergroup is sold off and broken up",
+  "vi": "Nissan và Honda vừa đính hôn đã chia tay, nhóm nhạc đồ gia dụng bán thì bán, tách thì tách"
+ },
+ {
+  "start": 130.4,
+  "end": 132.95,
+  "zh": "半导体砸几万亿补贴，喊着 Rapidus 要回来",
+  "en": "Trillions in chip subsidies, shouting \"Rapidus will be back!\"",
+  "vi": "Đổ hàng nghìn tỷ trợ cấp bán dẫn, hô hào Rapidus sẽ trở lại"
+ },
+ {
+  "start": 133,
+  "end": 135.35,
+  "zh": "人口一年少掉一座城，空房多到1元拍卖",
+  "en": "Population shrinks by a whole city every year; empty houses go to auction for 1 yen",
+  "vi": "Mỗi năm dân số mất đi một thành phố, nhà bỏ trống nhiều tới mức đấu giá 1 yên"
+ },
+ {
+  "start": 135.4,
+  "end": 136.45,
+  "zh": "人口减少？关我屁事？",
+  "en": "Population decline? What the hell do I care?",
+  "vi": "Dân số giảm? Liên quan quái gì tôi?"
+ },
+ {
+  "start": 136.5,
+  "end": 137.85,
+  "zh": "未来堪忧？和我无关",
+  "en": "The future looks grim? Not my problem",
+  "vi": "Tương lai đáng lo? Không liên quan tới tôi"
+ },
+ {
+  "start": 137.9,
+  "end": 139.54999999999998,
+  "zh": "网右喊着社保分开算？兄弟，那可太棒",
+  "en": "Net-right types shouting \"split the social security accounts\"? Brother, that's wonderful",
+  "vi": "Đám cực hữu mạng đòi tách riêng bảo hiểm xã hội? Anh em, tuyệt quá còn gì"
+ },
+ {
+  "start": 139.6,
+  "end": 142.04999999999998,
+  "zh": "不用养你们的爸妈，我工资条直接多一行",
+  "en": "No more supporting your parents — my payslip just grows an extra line",
+  "vi": "Khỏi phải nuôi bố mẹ các người, phiếu lương của tôi tự dưng dài thêm một dòng"
+ },
+ {
+  "start": 142.1,
+  "end": 144.14999999999998,
+  "zh": "我口袋里有护照，航班每天飞往远方",
+  "en": "I've got a passport in my pocket, and flights leave for far away every day",
+  "vi": "Hộ chiếu nằm trong túi, chuyến bay mỗi ngày đều bay tới nơi xa"
+ },
+ {
+  "start": 144.2,
+  "end": 149.64999999999998,
+  "zh": "等推轮椅的人走光，自己守你们父母的病床",
+  "en": "When everyone who pushes wheelchairs is gone, guard your own parents' sickbeds yourselves",
+  "vi": "Đợi người đẩy xe lăn đi hết, tự các người ngồi canh giường bệnh của bố mẹ mình"
+ },
+ {
+  "start": 149.7,
+  "end": 151.45,
+  "zh": "别停！",
+  "en": "Don't stop!",
+  "vi": "Đừng dừng!"
+ },
+ {
+  "start": 151.5,
+  "end": 155.85,
+  "zh": "那一声巨响，我等很久了。",
+  "en": "That giant crash — I've waited so long.",
+  "vi": "Tiếng nổ lớn ấy, tôi đã chờ rất lâu rồi."
+ },
+ {
+  "start": 155.9,
+  "end": 158.35,
+  "zh": "Karma is on the way.",
+  "en": "Karma is on the way.",
+  "vi": "Nghiệp báo đang trên đường tới."
+ },
+ {
+  "start": 158.4,
+  "end": 161.75,
+  "zh": "别停下来（越快越爽）",
+  "en": "Don't stop (the faster the better)",
+  "vi": "Đừng dừng lại (càng nhanh càng sướng)"
+ },
+ {
+  "start": 161.8,
+  "end": 164.04999999999998,
+  "zh": "冲过悬崖（飞向天堂）",
+  "en": "Over the cliff (flying to heaven)",
+  "vi": "Lao qua vách đá (bay thẳng lên thiên đường)"
+ },
+ {
+  "start": 164.1,
+  "end": 167.64999999999998,
+  "zh": "等账单将来寄到你们自己门上",
+  "en": "Till the bill arrives at your own door",
+  "vi": "Đợi hóa đơn gửi tới tận cửa nhà các người"
+ },
+ {
+  "start": 167.7,
+  "end": 170.85,
+  "zh": "全车再唱，最后一遍",
+  "en": "Everyone sing once more — the last time",
+  "vi": "Cả xe hát lại lần nữa — lần cuối cùng"
+ },
+ {
+  "start": 170.9,
+  "end": 173.45,
+  "zh": "高主席万寿无疆",
+  "en": "Long live Chairman Gao, ten thousand years without end",
+  "vi": "Chủ tịch Gao vạn thọ vô cương"
+ },
+ {
+  "start": 173.5,
+  "end": 180.04999999999998,
+  "zh": "小野田副主席永远健康",
+  "en": "Vice-Chairman Xiaoyetian, forever in good health",
+  "vi": "Phó Chủ tịch Xiaoyetian mãi mãi khỏe mạnh"
+ },
+ {
+  "start": 180.1,
+  "end": 182.35,
+  "zh": "高主席，万寿，别停。",
+  "en": "Chairman Gao, long life, never stop.",
+  "vi": "Chủ tịch Gao, vạn thọ, đừng dừng."
+ },
+ {
+  "start": 182.4,
+  "end": 184.54999999999998,
+  "zh": "高主席，万寿，无疆。",
+  "en": "Chairman Gao, long life, without end.",
+  "vi": "Chủ tịch Gao, vạn thọ, vô cương."
+ },
+ {
+  "start": 184.6,
+  "end": 186.85,
+  "zh": "小野田，万寿无疆",
+  "en": "Xiaoyetian, long life without end",
+  "vi": "Xiaoyetian, vạn thọ vô cương"
+ },
+ {
+  "start": 186.9,
+  "end": 190.39999999999998,
+  "zh": "小野田副主席，",
+  "en": "Vice-Chairman Xiaoyetian,",
+  "vi": "Phó Chủ tịch Xiaoyetian,"
+ },
+ {
+  "start": 190.45,
+  "end": 198.88,
+  "zh": "永远，永远健康。",
+  "en": "Forever, forever healthy.",
+  "vi": "Mãi mãi, mãi mãi khỏe mạnh."
+ },
+ {
+  "start": 198.93,
+  "end": 204.58999999999997,
+  "zh": "祝你们越办越好。万寿无疆",
+  "en": "May you run things better and better. Long life without end.",
+  "vi": "Chúc các người càng làm càng tốt. Vạn thọ vô cương."
+ },
+ {
+  "start": 204.64,
+  "end": 208.78,
+  "zh": "万寿无疆",
+  "en": "Long life without end",
+  "vi": "Vạn thọ vô cương"
+ },
+ {
+  "start": 208.83,
+  "end": 211.0,
+  "zh": "永远健康。",
+  "en": "Forever healthy.",
+  "vi": "Mãi mãi khỏe mạnh."
+ }
+]
